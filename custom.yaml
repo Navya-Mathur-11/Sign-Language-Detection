@@ -1,0 +1,11 @@
+path: /Users/NavyaMathur/Desktop/RealTimeObjectDetection/Project/datasets/project/dataset
+train: images/train
+val: images/val
+
+nc: 5
+names:
+  0: hello
+  1: thankyou
+  2: no
+  3: yes
+  4: iloveyou
